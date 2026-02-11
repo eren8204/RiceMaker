@@ -1,16 +1,33 @@
-# fitness
+# Recipe App
 
-A new Flutter project.
+A Flutter-based mobile application for browsing and viewing recipes with a clean and responsive user interface. The application demonstrates cross-platform mobile development using Flutter and efficient data handling through API integration.
+
+## Features
+
+- Browse recipe listings
+- View detailed recipe information
+- Search recipes
+- Responsive and clean UI
+- Cross-platform support (Android)
+
+## Tech Stack
+
+- Flutter
+- Dart
+- REST APIs
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter SDK installed
+- Android Studio or VS Code
+- Android device or emulator
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+git clone https://github.com/eren8204/RiceMaker.git
+cd RiceMaker
+flutter pub get
+flutter run
